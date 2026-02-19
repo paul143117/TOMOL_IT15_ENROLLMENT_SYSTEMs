@@ -1,5 +1,22 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# Logs
+logs
+>>>>>>> 952db8a (Resolve merge conflict)
 *.log
 .DS_Store
+<<<<<<< HEAD
+=======
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+=======
+*.log
+.DS_Store
+>>>>>>> 952db8a (Resolve merge conflict)
 .env
 .env.backup
 .env.production
@@ -22,3 +39,7 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+<<<<<<< HEAD
+=======
+>>>>>>> bc1a70d (fixed conflict)
+>>>>>>> 952db8a (Resolve merge conflict)
